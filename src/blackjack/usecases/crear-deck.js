@@ -17,6 +17,7 @@ import _ from 'underscore'
     
     
     let deck = [];
+    
 
     for( let i = 2; i <= 10; i++ ) {
         for( let tipo of tiposDeCarta ) {
